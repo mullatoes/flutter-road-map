@@ -28,6 +28,7 @@ class MyStateLessWidget extends StatelessWidget {
             color: Colors.grey,
             size: 30,
           ),
+          SizedBox(height: 20),
           const Icon(
             Icons.home,
             color: Colors.yellow,
